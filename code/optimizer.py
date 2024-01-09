@@ -165,7 +165,7 @@ class SGD(Optimizer):
 
     self.save_vector(layers)
 
-!pip install wandb -qU
+
 import wandb
 wandb.login()
 
