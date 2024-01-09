@@ -7,15 +7,7 @@ Original file is located at
     https://colab.research.google.com/github/shub2022/Optimizers_DLS/blob/main/code/optimizer.ipynb
 """
 
-!git clone https://github.com/shub2022/Optimizers_DLS
 
-ls
-
-# Commented out IPython magic to ensure Python compatibility.
-# %cd Optimizers_DLS/
-
-# Commented out IPython magic to ensure Python compatibility.
-# %cd data/
 
 from csv_data import HousePricesDatasetWrapper
 
